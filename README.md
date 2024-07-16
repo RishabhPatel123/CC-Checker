@@ -1,1 +1,2 @@
 # CC-Checker
+#Test Mode
